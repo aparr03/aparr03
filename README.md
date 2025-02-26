@@ -3,7 +3,8 @@
 I am a **Computer Science graduate** from **Central Michigan University** (May 2025), with a **minor in Information Technology**. I have a strong passion for **web and application development**, and I am actively seeking opportunities to grow as a **developer**.  
 
 ## 🔧 Currently Working On
-- **Parr-4-The-Course** and **Tymelyne-Website**  
+- **Parr-4-The-Course**
+- **Tymelyne-Website**  
 
 ## 💻 Experience  
 - **2.5 years** as a **Systems Analyst**  
