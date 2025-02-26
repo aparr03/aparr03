@@ -7,7 +7,7 @@ I am a **Computer Science graduate** from **Central Michigan University** (May 2
 
 ## 💻 Experience  
 - **2.5 years** as a **Systems Analyst**  
-- **1.5 years** as a **Data Entry Specialist**  
+- **1.5 years** as a **Data Analyst**  
 - ⬇️**Microsoft Certified** (AZ-900: Azure Fundamentals, SC-900: Security Fundamentals)⬇️
 - https://www.credly.com/users/andrew-parr.1b8277e7  
 
