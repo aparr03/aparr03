@@ -4,7 +4,7 @@ I am a **Computer Science graduate** from **Central Michigan University** (May 2
 
 ## 🔧 Currently Working On
 - **Parr-4-The-Course**
-- **Tymelyneweb**  
+- **Tymelyne**  
 
 ## 💻 Experience  
 - **2.5 years** as a **Systems Analyst**  
