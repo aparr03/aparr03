@@ -4,7 +4,7 @@ I am a **Computer Science graduate** from **Central Michigan University** (May 2
 
 ## 🔧 Currently Working On
 - **The-CompLex**
-- **Tymelyne**  
+- **Tymelyne/TymeLyne_Demo**  
 
 ## 💻 Experience  
 - **2.5 years** as a **Systems Analyst**  
