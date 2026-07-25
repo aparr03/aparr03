@@ -7,7 +7,7 @@ I am a **Computer Science graduate** from **Central Michigan University** (May 2
 - **Tymelyne/TymeLyne_Demo**  
 
 ## 💻 Experience  
-- **6 months** as an **Associate Software Engineer**
+- **1 year** as an **Associate Software Engineer**
 - **2.5 years** as a **Systems Analyst**  
 - **1.5 years** as a **Data Analyst**  
 - ⬇️**Microsoft Certified** (AZ-900: Azure Fundamentals, SC-900: Security Fundamentals)⬇️
